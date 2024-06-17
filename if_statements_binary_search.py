@@ -1,4 +1,4 @@
-v0: int = 100
+v0: int = 20000000000000000
 v1: int = 0
 v2: int = v0
 while v1 != v2:
